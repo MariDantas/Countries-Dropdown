@@ -14,6 +14,9 @@ As this project doesn't use the HTTP protocol and requires running on a local se
 
 ## Update History
 
+### Part II
+* The project is updated using arrow functions.
+
 ### Part I
 * Release of the **Countries Dropdown** project.
 
